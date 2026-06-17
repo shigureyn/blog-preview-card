@@ -6,7 +6,7 @@ This is a solution to the **Blog Preview Card** challenge from [Frontend Mentor]
 
 ### Screenshot
 
-![Project screenshot](./preview.jpg)
+![Project screenshot](./images/preview.jpg)
 
 ### Links
 
